@@ -1,6 +1,6 @@
 # Golden-Pack
 Fenix Junior Tools Professional's
-# Python2/3-SYN-Flood-Attack-Tool
+# Python2/3-IP DDOS Attack Tool's
 
 (https://github.com/managertermuxcodes/Golden-Pack))
 (https://github.com/managertermuxcodes/Golden-Pack))
